@@ -1,3 +1,6 @@
+Added feature - ALL will be shown if all selected
+
+
 This directive gives you a Bootstrap Dropdown with the power of AngularJS directives.
 
 # Features
